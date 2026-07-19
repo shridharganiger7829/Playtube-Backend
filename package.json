@@ -2,7 +2,7 @@
   "name": "playtube-backend",
   "version": "1.0.0",
   "description": "Creating Playtube application like youtube",
-  "type":"module",
+  "type": "module",
   "keywords": [
     "Javascript",
     "Backend"
@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "prettier": "^3.9.5"
   }
 }
